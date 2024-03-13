@@ -1,0 +1,93 @@
+
+
+
+.reg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 130vh; */
+  background-color: #f8f9fa; 
+}
+
+.registration {
+  text-align: center;
+  background-color: #ffffff;
+  border: 1px solid #dcdcdc;
+  padding: 20px;
+  width: 400px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+ margin-bottom: 50px;
+ 
+}
+
+
+.logooo {
+  width: 50px;
+  height: auto;
+  margin-bottom: -30px;
+  margin-right:15px ;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.reg-b {
+  background-color: #28a745; 
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  width: 30%;
+  margin-left: 3px;
+}
+
+.reg-b:hover {
+  background-color: #218838;
+}
+
+.text-danger {
+  color: #7c2230e3;
+}
+
+
+.login-text {
+  margin-top: 10px;
+  color: grey;
+}
+
+.login-link {
+  text-decoration: none;
+  color: #007bff; 
+}
+
+.login-link:hover {
+  text-decoration: underline;
+}
+.signup-text {
+  margin-bottom: 20px;
+  text-align: center;
+  color: #0f0202;
+  margin-right: 18px;  
+}
+body{
+  margin: 0;
+  padding: 0%;
+}
+@media screen and (max-width: 768px) {}
+    .registration {
+      margin-left: 10px;
+      width: 90%;
+    } 
+    .reg-b {
+      width: 30%; 
+      margin-left: 3px;
+    }
+    .he-n {
+      margin-left: 77px;
+      margin-top: 45;
+    }

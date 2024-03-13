@@ -1,0 +1,26 @@
+.about-us-container {
+    background-color: black;
+  }
+  
+  .about-us-content {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: hsl(0, 60%, 98%);
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    color: rgb(250, 240, 240);
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
+  /* Add more styles as needed */
+  
